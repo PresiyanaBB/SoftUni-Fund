@@ -1,0 +1,16 @@
+C:\Users\Go6o\Desktop\SoftUnii\bin\Debug\net5.0\SoftUnii.exe
+C:\Users\Go6o\Desktop\SoftUnii\bin\Debug\net5.0\SoftUnii.deps.json
+C:\Users\Go6o\Desktop\SoftUnii\bin\Debug\net5.0\SoftUnii.runtimeconfig.json
+C:\Users\Go6o\Desktop\SoftUnii\bin\Debug\net5.0\SoftUnii.runtimeconfig.dev.json
+C:\Users\Go6o\Desktop\SoftUnii\bin\Debug\net5.0\SoftUnii.dll
+C:\Users\Go6o\Desktop\SoftUnii\bin\Debug\net5.0\ref\SoftUnii.dll
+C:\Users\Go6o\Desktop\SoftUnii\bin\Debug\net5.0\SoftUnii.pdb
+C:\Users\Go6o\Desktop\SoftUnii\obj\Debug\net5.0\SoftUnii.csprojAssemblyReference.cache
+C:\Users\Go6o\Desktop\SoftUnii\obj\Debug\net5.0\SoftUnii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Go6o\Desktop\SoftUnii\obj\Debug\net5.0\SoftUnii.AssemblyInfoInputs.cache
+C:\Users\Go6o\Desktop\SoftUnii\obj\Debug\net5.0\SoftUnii.AssemblyInfo.cs
+C:\Users\Go6o\Desktop\SoftUnii\obj\Debug\net5.0\SoftUnii.csproj.CoreCompileInputs.cache
+C:\Users\Go6o\Desktop\SoftUnii\obj\Debug\net5.0\SoftUnii.dll
+C:\Users\Go6o\Desktop\SoftUnii\obj\Debug\net5.0\ref\SoftUnii.dll
+C:\Users\Go6o\Desktop\SoftUnii\obj\Debug\net5.0\SoftUnii.pdb
+C:\Users\Go6o\Desktop\SoftUnii\obj\Debug\net5.0\SoftUnii.genruntimeconfig.cache
